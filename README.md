@@ -1,0 +1,4 @@
+requirejs_test
+==============
+
+requirejs
